@@ -1,0 +1,4 @@
+PMA treatment , and not retinoic acid treatment of the U937 cells acts in inducing NF-KB expression in the nuclei .|||4 5 negation 4 12
+In nuclear extracts from monocytes or macrophages , induction of NF-KB occurred only if the cells were previously infected with HIV-1 .|||
+When U937 cells were infected with HIV-1 , no induction of NF-KB factor was detected , whereas high level of progeny virions was produced , suggesting that this factor was not required for viral replication .|||8 9 negation 8 15|||30 31 negation 30 35|||25 26 speculation 25 35
+These results indicate that in monocytic cell lineage , HIV-1 could mimic some differentiation/activation stimuli allowing nuclear NF-KB expression .|||10 11 speculation 10 19|||2 4 speculation 2 19
